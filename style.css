@@ -1,0 +1,117 @@
+body{
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+margin:0px;
+
+}
+
+h1{
+font-size: 40px;
+
+}
+.apply-orng{
+
+
+    color:orange;
+}
+#about{
+font width: 10;
+
+}
+.half-side{
+
+    float: left;
+width: 40%;
+margin-top: 2%;
+margin-left: 4%;
+padding: 2%;
+
+
+}
+.half-side img{
+
+width: 95%;
+
+}
+.top-section{
+   
+    background-image: url("picture/top-banner.png");
+    background-repeat: no-repeat;
+
+
+}
+section{
+
+height: 500px;
+padding-bottom: 100px;
+ v
+
+}
+button{
+    border: 1px solid rgb(14, 176, 240);
+    background-color: greenyellow;
+ padding: 8px;
+ border-radius: 4px;
+ color: rgb(26, 23, 230);
+ font-weight: 900;
+ background-image: linear-gradient(greenyellow,yellow);
+}
+button:hover{
+
+    color: rgb(245, 172, 14);
+}
+button:visited{
+    color: violet;
+
+}
+button:active{
+
+color: tomato;
+
+}
+#dream-img{
+
+position:relative;
+bottom: 150px;
+width: 105%;
+}
+p{
+    color:grey;
+}
+.dream-area{
+
+
+    background-image: url("picture/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.Experiences{
+
+    box-shadow: 10px 5px 7px grey;
+    height: 50%;
+    border-radius: 8px;
+    background-color: white;
+
+}
+.end-section{
+
+background-image: url("picture/exp-bg.png");
+background-repeat: no-repeat;
+background-position:left;
+
+}
+#full-stack{
+    border-left: 5px solid orange;
+border-image:linear-gradient(blue,orange);
+border-image-slice:1;
+}
+#baby-web{ 
+border-left:5px solid skyblue;
+border-image:linear-gradient(skyblue,orange);
+border-image-slice:1;
+
+}
+footer p{
+
+    text-align: center;
+    font-size: 12px;
+}
