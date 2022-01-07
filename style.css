@@ -101,8 +101,10 @@ background-position:left;
 }
 #full-stack{
     border-left: 5px solid orange;
+   
 border-image:linear-gradient(blue,orange);
-border-image-slice:1;
+
+border-image-slice:2;
 }
 #baby-web{ 
 border-left:5px solid skyblue;
